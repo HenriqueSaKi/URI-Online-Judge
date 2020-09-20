@@ -1,0 +1,6 @@
+#How to input more than 1 value at the same line
+
+x1,y1 = input().split(" ") #input values at the same line and after apply to their variable.
+x1 = float(x1) #calling the x1 of the first line as float
+y1 = float(y1) #calling the y1 of the first line as float
+print(x1+y1) #print sum 
