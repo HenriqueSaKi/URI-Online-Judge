@@ -1,5 +1,6 @@
 <h1 align='center'>URI Judge Online - Exercícios</h1>
 <div align='center'>
+  <img src="http://img.shields.io/static/v1?label=Java%20&message=OpenJDK%201.7.0&color=red&logo=java"/>
   <img src="http://img.shields.io/static/v1?label=Python%20&message=3.8.3&color=blue&logo=python"/>
   <img src="http://img.shields.io/static/v1?label=Ruby%20&message=2.6.6&color=red&logo=ruby"/>
   <img src="http://img.shields.io/static/v1?label=SQL&message=TSQL&color=blue&logo=mysql"/>
